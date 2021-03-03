@@ -63,4 +63,4 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 <img src="https://latex.codecogs.com/gif.latex?y&space;=&space;\frac{5\cdot&space;sin(36^{\circ})}{sin(90^{\circ})}&space;=&space;\frac{5\cdot&space;0,59}{1}&space;=&space;2,94" title="y = \frac{5\cdot sin(36^{\circ})}{sin(90^{\circ})} = \frac{5\cdot 0,59}{1} = 2,94" />
 
 
-<img src="https://latex.codecogs.com/gif.latex?y&space;=&space;\frac{5\cdot&space;sin(36^{\circ})}{sin(90^{\circ})}&space;=&space;\frac{5\cdot&space;0,59}{1}=2,94" title="y = \frac{5\cdot sin(36^{\circ})}{sin(90^{\circ})} = \frac{5\cdot 0,59}{1}=2,94" />
+<img src="https://latex.codecogs.com/gif.latex?x&space;=&space;\frac{5\cdot&space;sin(54^{\circ})}{sin(90^{\circ})}&space;=&space;\frac{5\cdot&space;0,81}{1}=4,05" title="x = \frac{5\cdot sin(54^{\circ})}{sin(90^{\circ})} = \frac{5\cdot 0,81}{1}=4,05" />
