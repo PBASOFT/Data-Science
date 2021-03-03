@@ -103,3 +103,6 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 <img src="https://latex.codecogs.com/gif.latex?\hat{a}&space;=&space;\frac{\vec{a}}{\left&space;|&space;\vec{a}&space;\right&space;|}" title="\hat{a} = \frac{\vec{a}}{\left | \vec{a} \right |}" />
 
 **(o)** What is the unit vector of <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}&space;=&space;\binom{3}{2}" title="\vec{a} = \binom{3}{2}" /> ?
+
+<img src="https://latex.codecogs.com/gif.latex?\left&space;|&space;\vec{a}&space;\right&space;|&space;=&space;\sqrt{3^{2}&space;&plus;&space;2^{2}}&space;=&space;3,61" title="\left | \vec{a} \right | = \sqrt{3^{2} + 2^{2}} = 3,61" />
+
