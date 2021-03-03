@@ -3,6 +3,8 @@
 
 -----
 
+## Vector Basics
+
 **(a)** A point is given in a coordinate system: B = (7, 8).
 What is the vector going from (0, 0) to B?
 
@@ -53,6 +55,9 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 
 <img src="https://latex.codecogs.com/gif.latex?\vec{b}&space;&plus;&space;\vec{a}&space;=&space;\binom{5}{1}&space;&plus;&space;\binom{3}{2}&space;=&space;\binom{5&plus;3}{1&plus;2}&space;=&space;\binom{8}{3}" title="\vec{b} + \vec{a} = \binom{5}{1} + \binom{3}{2} = \binom{5+3}{1+2} = \binom{8}{3}" />
 
+
+## Vector Decomposition
+
  **(f)** In Figure 3, what is the x-component of the force applied? What is the y-component?
  
 <img src="https://latex.codecogs.com/gif.latex?r&space;=&space;\frac{\pi}{5}&space;=&space;0,63" title="r = \frac{\pi}{5} = 0,63" />
@@ -64,3 +69,9 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 
 
 <img src="https://latex.codecogs.com/gif.latex?x&space;=&space;\frac{5\cdot&space;sin(54^{\circ})}{sin(90^{\circ})}&space;=&space;\frac{5\cdot&space;0,81}{1}=4,05" title="x = \frac{5\cdot sin(54^{\circ})}{sin(90^{\circ})} = \frac{5\cdot 0,81}{1}=4,05" />
+
+
+
+## Multiplication of a Vector with a Scalar
+
+**(i)** Given <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}&space;=&space;\binom{-4}{5}" title="\vec{a} = \binom{-4}{5}" /> and <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}&space;=&space;5\vec{a}" title="\vec{b} = 5\vec{a}" />, what is <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}" title="\vec{b}" />?
