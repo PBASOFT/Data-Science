@@ -74,4 +74,4 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 
 ## Multiplication of a Vector with a Scalar
 
-**(i)** Given <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}&space;=&space;\binom{-4}{5}" title="\vec{a} = \binom{-4}{5}" /> and <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}&space;=&space;5\vec{a}" title="\vec{b} = 5\vec{a}" />, what is <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}" title="\vec{b}" />?
+**(i)** Given <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}=\binom{-4}{5}" title="\vec{a}=\binom{-4}{5}" /> and <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}&space;=&space;5\vec{a}" title="\vec{b} = 5\vec{a}" />, what is <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}" title="\vec{b}" />?
