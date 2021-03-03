@@ -91,3 +91,7 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 
 <img src="https://latex.codecogs.com/gif.latex?\binom{1}{0}&space;\cdot&space;4&space;=&space;\binom{1\cdot&space;4}{0&space;\cdot&space;4}&space;=&space;\binom{4}{0}" title="\binom{1}{0} \cdot 4 = \binom{1\cdot 4}{0 \cdot 4} = \binom{4}{0}" />
 
+
+**(m)** What is the result of <img src="https://latex.codecogs.com/gif.latex?\inline&space;\binom{1}{3}\cdot&space;0,5" title="\binom{1}{3}\cdot 0,5" /> ?
+
+<img src="https://latex.codecogs.com/gif.latex?\binom{1}{3}\cdot&space;0,5&space;=&space;\binom{1&space;\cdot&space;0,5}{3&space;\cdot&space;0,5}&space;=&space;\binom{0,5}{1,5}" title="\binom{1}{3}\cdot 0,5 = \binom{1 \cdot 0,5}{3 \cdot 0,5} = \binom{0,5}{1,5}" />
