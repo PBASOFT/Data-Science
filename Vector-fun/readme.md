@@ -37,3 +37,14 @@ What is the resulting vector of their combined pull <img src="https://latex.code
   
  2.
 <img src="https://latex.codecogs.com/gif.latex?\vec{b}&space;&plus;&space;\vec{c}&space;=&space;\binom{5}{1}&plus;\binom{-2}{6}&space;=&space;\binom{5-2}{1&plus;6}&space;=&space;\binom{7}{3}" title="\vec{b} + \vec{c} = \binom{5}{1}+\binom{-2}{6} = \binom{5-2}{1+6} = \binom{7}{3}" />
+
+
+
+ 3. 
+<img src="https://latex.codecogs.com/gif.latex?(\vec{a}&plus;\vec{b})&plus;\vec{c}&space;=&space;\binom{3}{2}&space;&plus;&space;\binom{5}{1}&space;&plus;&space;\binom{-2}{6}&space;=&space;\binom{3&plus;5-2}{2&plus;1&plus;6}&space;=&space;\binom{6}{9}" title="(\vec{a}+\vec{b})+\vec{c} = \binom{3}{2} + \binom{5}{1} + \binom{-2}{6} = \binom{3+5-2}{2+1+6} = \binom{6}{9}" />
+
+ 4. 
+<img src="https://latex.codecogs.com/gif.latex?\vec{a}&space;&plus;&space;(\vec{b}&space;&plus;&space;\vec{c})&space;=\binom{3}{2}&space;&plus;&space;\binom{5}{1}&space;&plus;&space;\binom{-2}{6}&space;=&space;\binom{3&plus;5-2}{2&plus;1&plus;6}&space;=&space;\binom{9}{6}" title="\vec{a} + (\vec{b} + \vec{c}) =\binom{3}{2} + \binom{5}{1} + \binom{-2}{6} = \binom{3+5-2}{2+1+6} = \binom{9}{6}" />
+
+ 5.
+<img src="https://latex.codecogs.com/gif.latex?\vec{b}&space;&plus;&space;\vec{a}&space;=&space;\binom{5}{1}&space;&plus;&space;\binom{3}{2}&space;=&space;\binom{5&plus;3}{1&plus;2}&space;=&space;\binom{8}{3}" title="\vec{b} + \vec{a} = \binom{5}{1} + \binom{3}{2} = \binom{5+3}{1+2} = \binom{8}{3}" />
