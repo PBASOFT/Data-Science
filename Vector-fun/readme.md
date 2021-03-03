@@ -110,3 +110,7 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 
 
 **(p)** What is the unit vector of <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}&space;=&space;\binom{7}{-2}" title="\vec{a} = \binom{7}{-2}" />?
+
+<img src="https://latex.codecogs.com/gif.latex?\left&space;|&space;\vec{a}&space;\right&space;|&space;=&space;\sqrt{7^{2}&plus;-2^{2}}&space;=&space;7,28" title="\left | \vec{a} \right | = \sqrt{7^{2}+-2^{2}} = 7,28" />
+
+<img src="https://latex.codecogs.com/gif.latex?\hat{a}&space;=&space;\binom{7&space;\div&space;7,28}{-2&space;\div&space;7,28}&space;=&space;\binom{0,96}{-0,27}" title="\hat{a} = \binom{7 \div 7,28}{-2 \div 7,28} = \binom{0,96}{-0,27}" />
