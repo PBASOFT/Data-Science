@@ -27,3 +27,10 @@ The vector <img src="https://latex.codecogs.com/gif.latex?\vec{a}" title="\vec{a
 What is the resulting vector of their combined pull <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{res}" title="\vec{res}" />?
 
 <img src="https://latex.codecogs.com/gif.latex?\vec{res}&space;=&space;\binom{2&plus;5}{-2&plus;2}&space;=&space;\binom{7}{0}" title="\vec{res} = \binom{2+5}{-2+2} = \binom{7}{0}" />
+
+**(e)**
+
+  1. 
+   <img src="https://latex.codecogs.com/gif.latex?\vec{a}&space;&plus;&space;\vec{b}&space;=&space;\binom{3&plus;5}{2&plus;1}&space;=&space;\binom{8}{3}" title="\vec{a} + \vec{b} = \binom{3+5}{2+1} = \binom{8}{3}" />
+
+  <img src="https://latex.codecogs.com/gif.latex?\vec{b}&space;&plus;&space;\vec{c}&space;=&space;\binom{&space;5}{&space;1}&space;&plus;&space;\binom{-2}{6}&space;=&space;\binom{5-2}{1&plus;6}&space;=&space;\binom{3}{7}" title="\vec{b} + \vec{c} = \binom{ 5}{ 1} + \binom{-2}{6} = \binom{5-2}{1+6} = \binom{3}{7}" />
