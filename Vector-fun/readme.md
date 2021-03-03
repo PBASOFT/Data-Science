@@ -95,3 +95,11 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 **(m)** What is the result of <img src="https://latex.codecogs.com/gif.latex?\inline&space;\binom{1}{3}\cdot&space;0,5" title="\binom{1}{3}\cdot 0,5" /> ?
 
 <img src="https://latex.codecogs.com/gif.latex?\binom{1}{3}\cdot&space;0,5&space;=&space;\binom{1&space;\cdot&space;0,5}{3&space;\cdot&space;0,5}&space;=&space;\binom{0,5}{1,5}" title="\binom{1}{3}\cdot 0,5 = \binom{1 \cdot 0,5}{3 \cdot 0,5} = \binom{0,5}{1,5}" />
+
+## Unit Vectors
+
+**(n)** Given any vector, how can you find it’s unit vector?
+
+<img src="https://latex.codecogs.com/gif.latex?\hat{a}&space;=&space;\frac{\vec{a}}{\left&space;|&space;\vec{a}&space;\right&space;|}" title="\hat{a} = \frac{\vec{a}}{\left | \vec{a} \right |}" />
+
+**(o)** What is the unit vector of <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}&space;=&space;\binom{3}{2}" title="\vec{a} = \binom{3}{2}" /> ?
