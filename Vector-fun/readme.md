@@ -15,4 +15,4 @@ The vector <img src="https://latex.codecogs.com/gif.latex?\vec{a}" title="\vec{a
 <img src="https://latex.codecogs.com/gif.latex?\vec{a}&space;=&space;\binom{7-4}{8-3}&space;=&space;\binom{3}{5}" title="\vec{a} = \binom{7-4}{8-3} = \binom{3}{5}" />
 
 
-**(c)** Given vector <img src="https://latex.codecogs.com/gif.latex?\vec{a}&space;=&space;\binom{3}{5}" title="\vec{a} = \binom{3}{5}" />
+**(c)** Given vector <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}&space;=&space;\binom{3}{5}" title="\vec{a} = \binom{3}{5}" />, what is its magnitude 
