@@ -52,3 +52,11 @@ What is the resulting vector of their combined pull <img src="https://latex.code
  5.
 
 <img src="https://latex.codecogs.com/gif.latex?\vec{b}&space;&plus;&space;\vec{a}&space;=&space;\binom{5}{1}&space;&plus;&space;\binom{3}{2}&space;=&space;\binom{5&plus;3}{1&plus;2}&space;=&space;\binom{8}{3}" title="\vec{b} + \vec{a} = \binom{5}{1} + \binom{3}{2} = \binom{5+3}{1+2} = \binom{8}{3}" />
+
+ **(f)** In Figure 3, what is the x-component of the force applied? What is the y-component?
+<img src="https://latex.codecogs.com/gif.latex?r&space;=&space;\frac{\pi}{5}&space;=&space;0,63" title="r = \frac{\pi}{5} = 0,63" />
+
+<img src="https://latex.codecogs.com/gif.latex?v&space;=&space;\frac{180}{\pi&space;}&space;0,63&space;=&space;36^{\circ}" title="v = \frac{180}{\pi } 0,63 = 36^{\circ}" />
+
+<img src="https://latex.codecogs.com/gif.latex?y&space;=&space;\frac{5\cdot&space;sin(36^{\circ})}{sin(90^{\circ})}&space;=&space;\frac{5\cdot&space;0,59}{1}&space;=&space;2,94" title="y = \frac{5\cdot sin(36^{\circ})}{sin(90^{\circ})} = \frac{5\cdot 0,59}{1} = 2,94" />
+
