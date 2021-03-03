@@ -107,3 +107,5 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 <img src="https://latex.codecogs.com/gif.latex?\left&space;|&space;\vec{a}&space;\right&space;|&space;=&space;\sqrt{3^{2}&space;&plus;&space;2^{2}}&space;=&space;3,61" title="\left | \vec{a} \right | = \sqrt{3^{2} + 2^{2}} = 3,61" />
 
 <img src="https://latex.codecogs.com/gif.latex?\hat{a}=&space;\binom{3&space;\div&space;3,61}{2\div&space;3,61}&space;=&space;\binom{0,83}{0,55}" title="\hat{a}= \binom{3 \div 3,61}{2\div 3,61} = \binom{0,83}{0,55}" />
+
+**(p)** What is the unit vector of <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}&space;=&space;\binom{7}{-2}" title="\vec{a} = \binom{7}{-2}" />?
