@@ -75,3 +75,9 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 ## Multiplication of a Vector with a Scalar
 
 **(i)** Given <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}=\binom{-4}{5}" title="\vec{a}=\binom{-4}{5}" /> and <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}&space;=&space;5\vec{a}" title="\vec{b} = 5\vec{a}" />, what is <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}" title="\vec{b}" />?
+
+<img src="https://latex.codecogs.com/gif.latex?\vec{b}=\binom{-4&space;\cdot&space;5}{5&space;\cdot&space;5}&space;=&space;\binom{-20}{25}" title="\vec{b}=\binom{-4 \cdot 5}{5 \cdot 5} = \binom{-20}{25}" />
+
+**(j)** What is the length of <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}" title="\vec{a}" />?
+
+
