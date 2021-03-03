@@ -16,3 +16,14 @@ The vector <img src="https://latex.codecogs.com/gif.latex?\vec{a}" title="\vec{a
 
 
 **(c)** Given vector <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}&space;=&space;\binom{3}{5}" title="\vec{a} = \binom{3}{5}" />, what is its magnitude <img src="https://latex.codecogs.com/gif.latex?\inline&space;\left&space;|&space;\vec{a}&space;\right&space;|" title="\left | \vec{a} \right |" /> (its length)?
+
+<img src="https://latex.codecogs.com/gif.latex?\left&space;|&space;\vec{a}&space;\right&space;|&space;=&space;\sqrt{3^&space;2&space;&plus;&space;5^2}&space;=&space;5.83" title="\left | \vec{a} \right | = \sqrt{3^ 2 + 5^2} = 5.83" />
+
+
+**(d)** Two guys are pulling a boat on a river, each on their side, as seen on Figure 1. The pulls from our heroes are given as <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}" title="\vec{a}" /> and <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}" title="\vec{b}" /> respectively. 
+
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}=\binom{2}{-2},&space;\vec{b}=\binom{5}{2}" title="\vec{a}=\binom{2}{-2}, \vec{b}=\binom{5}{2}" />
+
+What is the resulting vector of their combined pull <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{res}" title="\vec{res}" />?
+
+<img src="https://latex.codecogs.com/gif.latex?\vec{res}&space;=&space;\binom{2&plus;5}{-2&plus;2}&space;=&space;\binom{7}{0}" title="\vec{res} = \binom{2+5}{-2+2} = \binom{7}{0}" />
