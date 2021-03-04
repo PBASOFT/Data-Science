@@ -126,3 +126,7 @@ parallel!
 
 **(r)** Given two vectors, <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}=\binom{2}{3}" title="\vec{a}=\binom{2}{3}" /> and <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}=\binom{-3}{2}" title="\vec{b}=\binom{-3}{2}" /> , calculate <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}&space;\cdot&space;\vec{b}" title="\vec{a} \cdot \vec{b}" />. Notice, they are perpendicular!
 
+
+<img src="https://latex.codecogs.com/gif.latex?2&space;\cdot&space;-3&space;&plus;&space;3&space;\cdot&space;2&space;=&space;0" title="2 \cdot -3 + 3 \cdot 2 = 0" />
+
+## Python
