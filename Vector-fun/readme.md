@@ -123,3 +123,4 @@ parallel!
 
 <img src="https://latex.codecogs.com/gif.latex?2&space;\cdot&space;4&space;&plus;&space;3&space;\cdot&space;6&space;=&space;26" title="2 \cdot 4 + 3 \cdot 6 = 26" />
 
+
