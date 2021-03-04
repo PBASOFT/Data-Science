@@ -38,7 +38,7 @@ What is the resulting vector of their combined pull <img src="https://latex.code
   
   
  2.
-<img src="https://latex.codecogs.com/gif.latex?\vec{b}&space;&plus;&space;\vec{c}&space;=&space;\binom{5}{1}&plus;\binom{-2}{6}&space;=&space;\binom{5-2}{1&plus;6}&space;=&space;\binom{7}{3}" title="\vec{b} + \vec{c} = \binom{5}{1}+\binom{-2}{6} = \binom{5-2}{1+6} = \binom{7}{3}" />
+<img src="https://latex.codecogs.com/gif.latex?\vec{b}&space;&plus;&space;\vec{c}&space;=&space;\binom{5}{1}&plus;\binom{-2}{6}&space;=&space;\binom{5-2}{1&plus;6}&space;=&space;\binom{7}{3}" title="\vec{b} + \vec{c} = \binom{5}{1}+\binom{-2}{6} = \binom{5-2}{1+6} = \binom{3}{7}" />
 
 
 
