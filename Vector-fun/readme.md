@@ -142,3 +142,4 @@ parallel!
 ## Python
 
 [Solution is in this jupyter notebook](https://github.com/PBASOFT/Data-Science/blob/main/Vector-fun/Vector-fun.ipynb)
+ 
