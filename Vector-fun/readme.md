@@ -130,3 +130,5 @@ parallel!
 <img src="https://latex.codecogs.com/gif.latex?2&space;\cdot&space;-3&space;&plus;&space;3&space;\cdot&space;2&space;=&space;0" title="2 \cdot -3 + 3 \cdot 2 = 0" />
 
 ## Python
+
+[Solution is in this jupyter notebook](https://github.com/PBASOFT/Data-Science/blob/main/Vector-fun/Vector-fun.ipynb)
