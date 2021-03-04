@@ -124,3 +124,5 @@ parallel!
 <img src="https://latex.codecogs.com/gif.latex?2&space;\cdot&space;4&space;&plus;&space;3&space;\cdot&space;6&space;=&space;26" title="2 \cdot 4 + 3 \cdot 6 = 26" />
 
 
+**(r)** Given two vectors, <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}=\binom{2}{3}" title="\vec{a}=\binom{2}{3}" /> and <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}=\binom{-3}{2}" title="\vec{b}=\binom{-3}{2}" /> , calculate <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}&space;\cdot&space;\vec{b}" title="\vec{a} \cdot \vec{b}" />. Notice, they are perpendicular!
+
