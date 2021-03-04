@@ -73,6 +73,8 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 **(h)** Having found the x-component (let’s call it <img src="https://latex.codecogs.com/gif.latex?\inline&space;{F_{x}}" title="{F_{x}}" />) and the y-component (let’s call it <img src="https://latex.codecogs.com/gif.latex?\inline&space;{F_{y}}" title="{F_{y}}" />), find <img src="https://latex.codecogs.com/gif.latex?\inline&space;\sqrt{F_{x}^{2}&space;&plus;&space;F_{y}^{2}}" title="\sqrt{F_{x}^{2} + F_{y}^{2}}" />.
 
 
+<img src="https://latex.codecogs.com/gif.latex?\sqrt{2,94^{2}&space;&plus;&space;4,05^{2}}&space;=&space;\sqrt{8,64&space;&plus;&space;16,40}&space;=&space;25,04" title="\sqrt{2,94^{2} + 4,05^{2}} = \sqrt{8,64 + 16,40} = 25,04" />
+
 
 ## Multiplication of a Vector with a Scalar
 
