@@ -71,6 +71,16 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 <img src="https://latex.codecogs.com/gif.latex?x&space;=&space;\frac{5\cdot&space;sin(54^{\circ})}{sin(90^{\circ})}&space;=&space;\frac{5\cdot&space;0,81}{1}=4,05" title="x = \frac{5\cdot sin(54^{\circ})}{sin(90^{\circ})} = \frac{5\cdot 0,81}{1}=4,05" />
 
 
+**(g)** In Figure 3, what is the vector of the force <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{F}" title="\vec{F}" />?
+
+<img src="https://latex.codecogs.com/gif.latex?\vec{F}&space;=&space;\binom{4,05}{2,94}" title="\vec{F} = \binom{4,05}{2,94}" />
+
+
+**(h)** Having found the x-component (let’s call it <img src="https://latex.codecogs.com/gif.latex?\inline&space;{F_{x}}" title="{F_{x}}" />) and the y-component (let’s call it <img src="https://latex.codecogs.com/gif.latex?\inline&space;{F_{y}}" title="{F_{y}}" />), find <img src="https://latex.codecogs.com/gif.latex?\inline&space;\sqrt{F_{x}^{2}&space;&plus;&space;F_{y}^{2}}" title="\sqrt{F_{x}^{2} + F_{y}^{2}}" />.
+
+
+<img src="https://latex.codecogs.com/gif.latex?\sqrt{2,94^{2}&space;&plus;&space;4,05^{2}}&space;=&space;\sqrt{8,64&space;&plus;&space;16,40}&space;=&space;25,04" title="\sqrt{2,94^{2} + 4,05^{2}} = \sqrt{8,64 + 16,40} = 25,04" />
+
 
 ## Multiplication of a Vector with a Scalar
 
