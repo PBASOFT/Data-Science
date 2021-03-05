@@ -90,7 +90,7 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 
 **(j)** What is the length of <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{a}" title="\vec{a}" />?
 
-<img src="https://latex.codecogs.com/gif.latex?\left&space;|&space;\vec{a}&space;\right&space;|&space;=&space;\sqrt{{-4^{2}}&plus;{5&space;^{2}}}&space;=&space;6,4" title="\left | \vec{a} \right | = \sqrt{{-4^{2}}+{5 ^{2}}} = 6,4" />
+<img src="https://latex.codecogs.com/gif.latex?\left&space;|&space;\vec{a}&space;\right&space;|&space;=&space;\sqrt{{(-4)^{2}}&plus;{5&space;^{2}}}&space;=&space;6,4" title="\left | \vec{a} \right | = \sqrt{{(-4)^{2}}+{5 ^{2}}} = 6,4" />
 
 **(k)** What is the length of <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}" title="\vec{b}" />?
 
