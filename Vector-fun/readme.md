@@ -94,7 +94,7 @@ What is the resulting vector of their combined pull <img src="https://latex.code
 
 **(k)** What is the length of <img src="https://latex.codecogs.com/gif.latex?\inline&space;\vec{b}" title="\vec{b}" />?
 
-<img src="https://latex.codecogs.com/gif.latex?\left&space;|&space;\vec{b}&space;\right&space;|&space;=&space;\sqrt{{-20^{2}}&plus;{25&space;^{2}}}&space;=&space;32,02" title="\left | \vec{b} \right | = \sqrt{{-20^{2}}+{25 ^{2}}} = 32,02" />
+<img src="https://latex.codecogs.com/gif.latex?\left&space;|&space;\vec{b}&space;\right&space;|&space;=&space;\sqrt{{(-20)^{2}}&plus;{25&space;^{2}}}&space;=&space;32,02" title="\left | \vec{b} \right | = \sqrt{{(-20)^{2}}+{25 ^{2}}} = 32,02" />
 
 **(l)** What is the result of <img src="https://latex.codecogs.com/gif.latex?\inline&space;\binom{1}{0}\cdot&space;4" title="\binom{1}{0}\cdot 4" /> ?
 
