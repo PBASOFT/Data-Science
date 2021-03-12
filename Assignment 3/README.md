@@ -32,5 +32,5 @@ Given the two following matrices:
 (using * instead of @ in Python). Can you see what is the difference?
 
 
-<img src="./images/1c.png" width="600"/>
+<img src="./images/1c.png" width="900"/>
   
