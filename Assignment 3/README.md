@@ -42,3 +42,4 @@ Given the two following matrices:
    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/1c.png" width="900"/>
   
+  
