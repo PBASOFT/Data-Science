@@ -19,3 +19,13 @@ Given the two following matrices:
 
   <img src="./images/1a.png" width="600"/>
 
+
+**(b)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;B^{T}" title="B^{T}" />
+
+
+<img src="https://latex.codecogs.com/gif.latex?B^{T}&space;=&space;\begin{pmatrix}&space;-1&space;&&space;3\\&space;4&space;&&space;8&space;\end{pmatrix}" title="B^{T} = \begin{pmatrix} -1 & 3\\ 4 & 8 \end{pmatrix}" />
+
+  <img src="./images/1b.png" width="600"/>
+  
+  
+  
