@@ -28,4 +28,9 @@ Given the two following matrices:
   <img src="./images/1b.png" width="600"/>
   
   
+**(c)** Find AB (matrix multiplication). Compare with simple multiplication
+(using * instead of @ in Python). Can you see what is the difference?
+
+
+<img src="./images/1b.png" width="600"/>
   
