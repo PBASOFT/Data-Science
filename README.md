@@ -4,4 +4,4 @@
  - [Assignment 2 - Vector Fun](https://github.com/PBASOFT/Data-Science/tree/main/Assignment%202)
  
  
- - [Mini Project: Text Similarity](https://github.com/PBASOFT/Data-Science/tree/main/Assignment%203)
+ - [Mini Project: Text Similarity](/Mini Project_Text_Similarity)
