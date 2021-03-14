@@ -102,7 +102,9 @@ Python with Numpy:
 # Task 2
 
 Given 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?A&space;=&space;\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}&space;B&space;=&space;\begin{pmatrix}&space;1&space;&&space;2\\&space;3&space;&&space;4&space;\end{pmatrix}" title="A = \begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix} B = \begin{pmatrix} 1 & 2\\ 3 & 4 \end{pmatrix}" />
+
+<img src="https://latex.codecogs.com/gif.latex?A=\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}&space;B=\begin{pmatrix}&space;1&space;&&space;2\\&space;3&space;&&space;4&space;\end{pmatrix}" title="A=\begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix} B=\begin{pmatrix} 1 & 2\\ 3 & 4 \end{pmatrix}" />
+
 
 **(a)** Find 
 
@@ -110,6 +112,8 @@ Given
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}&space;\begin{pmatrix}&space;1&space;&&space;2\\&space;3&space;&&space;4&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;2\cdot&space;1&plus;1\cdot&space;3&space;&&space;2&space;\cdot&space;2&plus;1\cdot&space;4\\&space;3\cdot&space;1&plus;2\cdot&space;3&space;&&space;3\cdot&space;2&plus;2\cdot&space;4&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;5&space;&&space;8\\&space;9&space;&&space;14&space;\end{pmatrix}" title="\begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix} \begin{pmatrix} 1 & 2\\ 3 & 4 \end{pmatrix} = \begin{pmatrix} 2\cdot 1+1\cdot 3 & 2 \cdot 2+1\cdot 4\\ 3\cdot 1+2\cdot 3 & 3\cdot 2+2\cdot 4 \end{pmatrix} = \begin{pmatrix} 5 & 8\\ 9 & 14 \end{pmatrix}" />
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/2a.png" width="700"/>
