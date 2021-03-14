@@ -165,3 +165,8 @@ Using the same matrices from Task 2:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3c.png" width="600"/>
+
+
+**(d)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;A^{-1}A" title="A^{-1}A" />
+
+
