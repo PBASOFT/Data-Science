@@ -129,7 +129,11 @@ Given
 
 # Task 3
 
-The inverse of a matrix  <img src="https://latex.codecogs.com/gif.latex?\inline&space;A=\begin{pmatrix}&space;a&space;&&space;b\\&space;c&space;&&space;d&space;\end{pmatrix}" title="A=\begin{pmatrix} a & b\\ c & d \end{pmatrix}" /> is found by <img src="https://latex.codecogs.com/gif.latex?\inline&space;A^{-1}=\frac{1}{ad-bc}\begin{pmatrix}&space;d&space;&&space;-b&space;\\&space;-c&space;&&space;a&space;\end{pmatrix}" title="A^{-1}=\frac{1}{ad-bc}\begin{pmatrix} d & -b \\ -c & a \end{pmatrix}" /> As seen in listing 1, the inverse of a matrix can be found easily with numpy
+The inverse of a matrix  <img src="https://latex.codecogs.com/gif.latex?\inline&space;A=\begin{pmatrix}&space;a&space;&&space;b\\&space;c&space;&&space;d&space;\end{pmatrix}" title="A=\begin{pmatrix} a & b\\ c & d \end{pmatrix}" /> is found by 
+
+<img src="https://latex.codecogs.com/gif.latex?\inline&space;A^{-1}=\frac{1}{ad-bc}\begin{pmatrix}&space;d&space;&&space;-b&space;\\&space;-c&space;&&space;a&space;\end{pmatrix}" title="A^{-1}=\frac{1}{ad-bc}\begin{pmatrix} d & -b \\ -c & a \end{pmatrix}" />
+
+As seen in listing 1, the inverse of a matrix can be found easily with numpy
 (after having imported numpy.linalg.inv) by: inv(A).
 Using the same matrices from Task 2:
 
