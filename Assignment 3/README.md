@@ -44,3 +44,7 @@ Given the two following matrices:
   
   
 **(d)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;AB^{T}" title="AB^{T}" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?AB^{T}&space;=&space;\begin{pmatrix}&space;0&space;&&space;16\\&space;20&space;&&space;56&space;\end{pmatrix}" title="AB^{T} = \begin{pmatrix} 0 & 16\\ 20 & 56 \end{pmatrix}" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./images/1d.png" width="700"/>
