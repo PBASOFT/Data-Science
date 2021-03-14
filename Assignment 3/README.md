@@ -96,3 +96,9 @@ Python with Numpy:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/1g.png" width="700"/>
+
+
+
+# Task 2
+
+Given &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?\inline&space;A&space;=&space;\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}&space;B&space;=&space;\begin{pmatrix}&space;1&space;&&space;2\\&space;3&space;&&space;4&space;\end{pmatrix}" title="A = \begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix} B = \begin{pmatrix} 1 & 2\\ 3 & 4 \end{pmatrix}" />
