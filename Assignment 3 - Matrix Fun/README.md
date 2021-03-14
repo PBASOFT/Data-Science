@@ -145,7 +145,7 @@ Using the same matrices from Task 2:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3a.png" width="700"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3a.png" width="600"/>
 
 
 **(b)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;B^{-1}" title="B^{-1}" />
@@ -155,6 +155,8 @@ Using the same matrices from Task 2:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3b.png" width="700"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3b.png" width="600"/>
 
+
+**(b)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;AA^{-1}" title="AA^{-1}" />
 
