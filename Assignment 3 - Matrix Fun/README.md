@@ -137,4 +137,9 @@ As seen in listing 1, the inverse of a matrix can be found easily with numpy
 (after having imported numpy.linalg.inv) by: inv(A).
 Using the same matrices from Task 2:
 
-**(a)**
+**(a)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;A^{-1}" title="A^{-1}" />
+
+
+<img src="https://latex.codecogs.com/gif.latex?A=\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}&space;B=\begin{pmatrix}&space;1&space;&&space;2\\&space;3&space;&&space;4&space;\end{pmatrix}" title="A=\begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix}" />
+
+
