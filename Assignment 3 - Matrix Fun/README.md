@@ -118,3 +118,10 @@ Given
 
 
 **(b)** Find &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?\inline&space;BA" title="BA" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?\begin{pmatrix}&space;1&space;&&space;2\\&space;3&space;&&space;4&space;\end{pmatrix}\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;1\cdot&space;2&plus;2\cdot&space;3&space;&&space;1\cdot&space;1&plus;2\cdot&space;2&space;\\&space;3\cdot&space;2&plus;4\cdot&space;3&space;&&space;3\cdot&space;1&plus;4\cdot&space;2&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;8&space;&&space;5\\&space;18&space;&&space;12&space;\end{pmatrix}" title="\begin{pmatrix} 1 & 2\\ 3 & 4 \end{pmatrix}\begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix} = \begin{pmatrix} 1\cdot 2+2\cdot 3 & 1\cdot 1+2\cdot 2 \\ 3\cdot 2+4\cdot 3 & 3\cdot 1+4\cdot 2 \end{pmatrix} = \begin{pmatrix} 8 & 5\\ 18 & 12 \end{pmatrix}" />
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/2b.png" width="700"/>
