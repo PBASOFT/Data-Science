@@ -69,3 +69,6 @@ Python with Numpy:
 Python with Numpy:
 
 <img src="./images/1e.png" width="700"/>
+
+
+<img src="https://latex.codecogs.com/gif.latex?AB^{T}=\begin{pmatrix}&space;0&space;&&space;16\\&space;20&space;&&space;56&space;\end{pmatrix}&space;B^{T}A^{T}=\begin{pmatrix}&space;0&space;&&space;16\\&space;20&space;&&space;56&space;\end{pmatrix}" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title="AB^{T}=\begin{pmatrix}&space;0&space;&&space;16\\&space;20&space;&&space;56&space;\end{pmatrix} B^{T}A^{T}=\begin{pmatrix}&space;0&space;&&space;16\\&space;20&space;&&space;56&space;\end{pmatrix}" />
