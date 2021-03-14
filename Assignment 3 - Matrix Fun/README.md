@@ -169,4 +169,9 @@ Using the same matrices from Task 2:
 
 **(d)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;A^{-1}A" title="A^{-1}A" />
 
+<img src="https://latex.codecogs.com/gif.latex?A^{-1}A=&space;\begin{pmatrix}&space;2&space;&&space;-1\\&space;-3&space;&&space;2&space;\end{pmatrix}&space;\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}=&space;\begin{pmatrix}&space;2\cdot2&plus;-1\cdot3&space;&&space;2\cdot1&plus;-1\cdot2\\&space;-3\cdot2&plus;2\cdot3&space;&&space;-3\cdot1&plus;2\cdot2&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;1&space;&&space;0\\&space;0&space;&&space;1&space;\end{pmatrix}" title="A^{-1}A= \begin{pmatrix} 2 & -1\\ -3 & 2 \end{pmatrix} \begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix}= \begin{pmatrix} 2\cdot2+-1\cdot3 & 2\cdot1+-1\cdot2\\ -3\cdot2+2\cdot3 & -3\cdot1+2\cdot2 \end{pmatrix} = \begin{pmatrix} 1 & 0\\ 0 & 1 \end{pmatrix}" />
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3c.png" width="600"/>
