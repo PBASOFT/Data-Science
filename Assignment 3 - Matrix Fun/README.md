@@ -143,5 +143,6 @@ Using the same matrices from Task 2:
 
 
 
-**(a)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;B^{-1}" title="A^{-1}" />
+**(b)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;B^{-1}" title="B^{-1}" />
+
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;B^{-1}=\frac{1}{1\cdot&space;4-2\cdot&space;3}\begin{pmatrix}&space;4&space;&&space;-2\\&space;-3&space;&&space;1&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;-0,5\cdot&space;4&space;&&space;-0,5\cdot&space;-2\\&space;-0,5\cdot&space;-3&space;&&space;-0,5\cdot&space;1&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;-2&space;&&space;1\\&space;1,5&space;&&space;-0,5&space;\end{pmatrix}" title="B^{-1}=\frac{1}{1\cdot 4-2\cdot 3}\begin{pmatrix} 4 & -2\\ -3 & 1 \end{pmatrix} = \begin{pmatrix} -0,5\cdot 4 & -0,5\cdot -2\\ -0,5\cdot -3 & -0,5\cdot 1 \end{pmatrix} = \begin{pmatrix} -2 & 1\\ 1,5 & -0,5 \end{pmatrix}" />
