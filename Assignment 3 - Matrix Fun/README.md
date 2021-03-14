@@ -19,7 +19,7 @@ Python with Numpy:
 <img src="https://latex.codecogs.com/gif.latex?A^{T}&space;=&space;\begin{pmatrix}&space;3&space;&&space;2\\&space;1&space;&&space;6&space;\end{pmatrix}" title="A^{T} = \begin{pmatrix} 3 & 2\\ 1 & 6 \end{pmatrix}" />
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/1a.png" width="600"/>
 
@@ -29,7 +29,7 @@ Python with Numpy:
 
 <img src="https://latex.codecogs.com/gif.latex?B^{T}&space;=&space;\begin{pmatrix}&space;-1&space;&&space;3\\&space;4&space;&&space;8&space;\end{pmatrix}" title="B^{T} = \begin{pmatrix} -1 & 3\\ 4 & 8 \end{pmatrix}" />
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+Python with Numpy:
  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/1b.png" width="600"/>
   
@@ -53,7 +53,7 @@ Python with Numpy:
 
 <img src="https://latex.codecogs.com/gif.latex?AB^{T}&space;=&space;\begin{pmatrix}&space;0&space;&&space;16\\&space;20&space;&&space;56&space;\end{pmatrix}" title="AB^{T} = \begin{pmatrix} 0 & 16\\ 20 & 56 \end{pmatrix}" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/1d.png" width="600"/>
 
@@ -66,7 +66,7 @@ Python with Numpy:
 <img src="https://latex.codecogs.com/gif.latex?B^{T}A^{T}=\begin{pmatrix}&space;-1&space;&&space;3\\&space;4&space;&&space;8&space;\end{pmatrix}&space;\begin&space;{pmatrix}&space;3&space;&&space;2\\&space;1&space;&&space;6&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;-1\cdot&space;3&plus;3\cdot&space;1&space;&&space;-1\cdot&space;2&plus;3\cdot&space;6\\&space;4\cdot&space;3&plus;8\cdot&space;1&space;&&space;4\cdot&space;2&plus;8\cdot&space;6&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;0&space;&&space;16\\&space;20&space;&&space;56&space;\end{pmatrix}" title="B^{T}A^{T}=\begin{pmatrix} -1 & 3\\ 4 & 8 \end{pmatrix} \begin {pmatrix} 3 & 2\\ 1 & 6 \end{pmatrix} = \begin{pmatrix} -1\cdot 3+3\cdot 1 & -1\cdot 2+3\cdot 6\\ 4\cdot 3+8\cdot 1 & 4\cdot 2+8\cdot 6 \end{pmatrix} = \begin{pmatrix} 0 & 16\\ 20 & 56 \end{pmatrix}" />
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/1e.png" width="600"/>
 
@@ -79,7 +79,7 @@ Python with Numpy:
 <img src="https://latex.codecogs.com/gif.latex?(A^{T})^{T}&space;=&space;\begin{pmatrix}&space;3&space;&&space;1\\&space;2&space;&&space;6&space;\end{pmatrix}" title="(A^{T})^{T} = \begin{pmatrix} 3 & 1\\ 2 & 6 \end{pmatrix}" />
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/1f.png" width="600"/>
 
@@ -93,7 +93,7 @@ Python with Numpy:
 <img src="https://latex.codecogs.com/gif.latex?\begin{pmatrix}&space;3&space;&&space;1\\&space;2&space;&&space;6&space;\end{pmatrix}\begin{pmatrix}&space;3&space;&&space;2\\&space;1&space;&&space;6&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;3\cdot&space;3&plus;1\cdot&space;1&space;&&space;3\cdot&space;2&plus;1\cdot&space;6\\&space;2\cdot&space;3&plus;6\cdot&space;1&space;&&space;2\cdot&space;2&plus;6\cdot&space;6&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;10&space;&&space;12\\&space;12&space;&&space;40&space;\end{pmatrix}" title="\begin{pmatrix} 3 & 1\\ 2 & 6 \end{pmatrix}\begin{pmatrix} 3 & 2\\ 1 & 6 \end{pmatrix} = \begin{pmatrix} 3\cdot 3+1\cdot 1 & 3\cdot 2+1\cdot 6\\ 2\cdot 3+6\cdot 1 & 2\cdot 2+6\cdot 6 \end{pmatrix} = \begin{pmatrix} 10 & 12\\ 12 & 40 \end{pmatrix}" />
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/1g.png" width="600"/>
 
@@ -112,7 +112,7 @@ Given
 <img src="https://latex.codecogs.com/gif.latex?\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}&space;\begin{pmatrix}&space;1&space;&&space;2\\&space;3&space;&&space;4&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;2\cdot&space;1&plus;1\cdot&space;3&space;&&space;2&space;\cdot&space;2&plus;1\cdot&space;4\\&space;3\cdot&space;1&plus;2\cdot&space;3&space;&&space;3\cdot&space;2&plus;2\cdot&space;4&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;5&space;&&space;8\\&space;9&space;&&space;14&space;\end{pmatrix}" title="\begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix} \begin{pmatrix} 1 & 2\\ 3 & 4 \end{pmatrix} = \begin{pmatrix} 2\cdot 1+1\cdot 3 & 2 \cdot 2+1\cdot 4\\ 3\cdot 1+2\cdot 3 & 3\cdot 2+2\cdot 4 \end{pmatrix} = \begin{pmatrix} 5 & 8\\ 9 & 14 \end{pmatrix}" />
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/2a.png" width="600"/>
 
@@ -122,7 +122,7 @@ Given
 <img src="https://latex.codecogs.com/gif.latex?\begin{pmatrix}&space;1&space;&&space;2\\&space;3&space;&&space;4&space;\end{pmatrix}\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;1\cdot&space;2&plus;2\cdot&space;3&space;&&space;1\cdot&space;1&plus;2\cdot&space;2&space;\\&space;3\cdot&space;2&plus;4\cdot&space;3&space;&&space;3\cdot&space;1&plus;4\cdot&space;2&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;8&space;&&space;5\\&space;18&space;&&space;11&space;\end{pmatrix}" title="\begin{pmatrix} 1 & 2\\ 3 & 4 \end{pmatrix}\begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix} = \begin{pmatrix} 1\cdot 2+2\cdot 3 & 1\cdot 1+2\cdot 2 \\ 3\cdot 2+4\cdot 3 & 3\cdot 1+4\cdot 2 \end{pmatrix} = \begin{pmatrix} 8 & 5\\ 18 & 11 \end{pmatrix}" />
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/2b.png" width="600"/>
 
@@ -143,7 +143,7 @@ Using the same matrices from Task 2:
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3a.png" width="600"/>
 
@@ -153,7 +153,7 @@ Using the same matrices from Task 2:
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;B^{-1}=\frac{1}{1\cdot&space;4-2\cdot&space;3}\begin{pmatrix}&space;4&space;&&space;-2\\&space;-3&space;&&space;1&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;-0,5\cdot&space;4&space;&&space;-0,5\cdot&space;-2\\&space;-0,5\cdot&space;-3&space;&&space;-0,5\cdot&space;1&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;-2&space;&&space;1\\&space;1,5&space;&&space;-0,5&space;\end{pmatrix}" title="B^{-1}=\frac{1}{1\cdot 4-2\cdot 3}\begin{pmatrix} 4 & -2\\ -3 & 1 \end{pmatrix} = \begin{pmatrix} -0,5\cdot 4 & -0,5\cdot -2\\ -0,5\cdot -3 & -0,5\cdot 1 \end{pmatrix} = \begin{pmatrix} -2 & 1\\ 1,5 & -0,5 \end{pmatrix}" />
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3b.png" width="600"/>
 
@@ -162,7 +162,7 @@ Using the same matrices from Task 2:
 
 <img src="https://latex.codecogs.com/gif.latex?AA^{-1}=&space;\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}&space;\begin{pmatrix}&space;2&space;&&space;-1\\&space;-3&space;&&space;2&space;\end{pmatrix}=&space;\begin{pmatrix}&space;2\cdot&space;2&plus;1\cdot&space;-3&space;&&space;2\cdot&space;-1&plus;1\cdot&space;2\\&space;3\cdot&space;2&plus;2\cdot&space;-3&space;&&space;3\cdot&space;-1&plus;2\cdot&space;2&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;1&space;&&space;0\\&space;0&space;&&space;1&space;\end{pmatrix}" title="AA^{-1}= \begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix} \begin{pmatrix} 2 & -1\\ -3 & 2 \end{pmatrix}= \begin{pmatrix} 2\cdot 2+1\cdot -3 & 2\cdot -1+1\cdot 2\\ 3\cdot 2+2\cdot -3 & 3\cdot -1+2\cdot 2 \end{pmatrix} = \begin{pmatrix} 1 & 0\\ 0 & 1 \end{pmatrix}" />+2\cdot 2 \end{pmatrix} = \begin{pmatrix} 1 & 0\\ 0 & 1 \end{pmatrix}" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3c.png" width="600"/>
 
@@ -172,6 +172,6 @@ Using the same matrices from Task 2:
 <img src="https://latex.codecogs.com/gif.latex?A^{-1}A=&space;\begin{pmatrix}&space;2&space;&&space;-1\\&space;-3&space;&&space;2&space;\end{pmatrix}&space;\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}=&space;\begin{pmatrix}&space;2\cdot2&plus;-1\cdot3&space;&&space;2\cdot1&plus;-1\cdot2\\&space;-3\cdot2&plus;2\cdot3&space;&&space;-3\cdot1&plus;2\cdot2&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;1&space;&&space;0\\&space;0&space;&&space;1&space;\end{pmatrix}" title="A^{-1}A= \begin{pmatrix} 2 & -1\\ -3 & 2 \end{pmatrix} \begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix}= \begin{pmatrix} 2\cdot2+-1\cdot3 & 2\cdot1+-1\cdot2\\ -3\cdot2+2\cdot3 & -3\cdot1+2\cdot2 \end{pmatrix} = \begin{pmatrix} 1 & 0\\ 0 & 1 \end{pmatrix}" />
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+Python with Numpy:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3c.png" width="600"/>
