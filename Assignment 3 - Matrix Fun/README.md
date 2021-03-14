@@ -187,3 +187,11 @@ Python with Numpy:
 
 
 **(f)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;B^{-1}B" title="B^{-1}B" />
+
+<img src="https://latex.codecogs.com/gif.latex?B^{-1}B=&space;\begin{pmatrix}&space;-2&space;&&space;1\\&space;1,5&space;&&space;-0,5&space;\end{pmatrix}&space;\begin{pmatrix}&space;1&space;&&space;2\\&space;3&space;&&space;4&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;-2\cdot&space;1&plus;1\cdot&space;3&space;&&space;-2\cdot&space;2&plus;1\cdot&space;4\\&space;1,5\cdot1&plus;-0,5\cdot3&space;&&space;1,5\cdot2&plus;-0,5\cdot4&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;1&space;&&space;0\\&space;0&space;&&space;1&space;\end{pmatrix}" title="B^{-1}B= \begin{pmatrix} -2 & 1\\ 1,5 & -0,5 \end{pmatrix} \begin{pmatrix} 1 & 2\\ 3 & 4 \end{pmatrix} = \begin{pmatrix} -2\cdot 1+1\cdot 3 & -2\cdot 2+1\cdot 4\\ 1,5\cdot1+-0,5\cdot3 & 1,5\cdot2+-0,5\cdot4 \end{pmatrix} = \begin{pmatrix} 1 & 0\\ 0 & 1 \end{pmatrix}" />
+
+Python with Numpy:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3f.png" width="600"/>
+
+
