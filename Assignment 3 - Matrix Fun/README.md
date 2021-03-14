@@ -119,4 +119,4 @@ Given
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/2a.png" width="700"/>
 
 
-**(b)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?\inline&space;AB" title="BA" />
+**(b)** Find &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?\inline&space;AB" title="BA" />
