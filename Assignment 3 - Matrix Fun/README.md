@@ -200,5 +200,7 @@ Python with Numpy:
 
 Given <img src="https://latex.codecogs.com/gif.latex?\inline&space;A&space;=&space;\begin{pmatrix}&space;2&space;&&space;4\\&space;1&space;&&space;2&space;\end{pmatrix}" title="A = \begin{pmatrix} 2 & 4\\ 1 & 2 \end{pmatrix}" />
 
-**(a)** Find $A^{-1}
+**(a)** Find $A^{-1}$
+
+
 
