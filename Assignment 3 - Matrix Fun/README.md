@@ -158,9 +158,9 @@ Python with Numpy:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3b.png" width="600"/>
 
 
-**(b)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;AA^{-1}" title="AA^{-1}" />
+**(c)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;AA^{-1}" title="AA^{-1}" />
 
-<img src="https://latex.codecogs.com/gif.latex?AA^{-1}=&space;\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}&space;\begin{pmatrix}&space;2&space;&&space;-1\\&space;-3&space;&&space;2&space;\end{pmatrix}=&space;\begin{pmatrix}&space;2\cdot&space;2&plus;1\cdot&space;-3&space;&&space;2\cdot&space;-1&plus;1\cdot&space;2\\&space;3\cdot&space;2&plus;2\cdot&space;-3&space;&&space;3\cdot&space;-1&plus;2\cdot&space;2&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;1&space;&&space;0\\&space;0&space;&&space;1&space;\end{pmatrix}" title="AA^{-1}= \begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix} \begin{pmatrix} 2 & -1\\ -3 & 2 \end{pmatrix}= \begin{pmatrix} 2\cdot 2+1\cdot -3 & 2\cdot -1+1\cdot 2\\ 3\cdot 2+2\cdot -3 & 3\cdot -1+2\cdot 2 \end{pmatrix} = \begin{pmatrix} 1 & 0\\ 0 & 1 \end{pmatrix}" />+2\cdot 2 \end{pmatrix} = \begin{pmatrix} 1 & 0\\ 0 & 1 \end{pmatrix}" />
+<img src="https://latex.codecogs.com/gif.latex?AA^{-1}=&space;\begin{pmatrix}&space;2&space;&&space;1\\&space;3&space;&&space;2&space;\end{pmatrix}&space;\begin{pmatrix}&space;2&space;&&space;-1\\&space;-3&space;&&space;2&space;\end{pmatrix}=&space;\begin{pmatrix}&space;2\cdot&space;2&plus;1\cdot&space;-3&space;&&space;2\cdot&space;-1&plus;1\cdot&space;2\\&space;3\cdot&space;2&plus;2\cdot&space;-3&space;&&space;3\cdot&space;-1&plus;2\cdot&space;2&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;1&space;&&space;0\\&space;0&space;&&space;1&space;\end{pmatrix}" title="AA^{-1}= \begin{pmatrix} 2 & 1\\ 3 & 2 \end{pmatrix} \begin{pmatrix} 2 & -1\\ -3 & 2 \end{pmatrix}= \begin{pmatrix} 2\cdot 2+1\cdot -3 & 2\cdot -1+1\cdot 2\\ 3\cdot 2+2\cdot -3 & 3\cdot -1+2\cdot 2 \end{pmatrix} = \begin{pmatrix} 1 & 0\\ 0 & 1 \end{pmatrix}" />
 
 Python with Numpy:
 
