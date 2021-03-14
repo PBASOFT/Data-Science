@@ -174,4 +174,6 @@ Python with Numpy:
 
 Python with Numpy:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3c.png" width="600"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3d.png" width="600"/>
+
+**(e)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;BB^{-1}" title="BB^{-1}" />
