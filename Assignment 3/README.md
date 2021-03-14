@@ -77,3 +77,15 @@ Python with Numpy:
 **(f)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;(A^{T})^{T}" title="(A^{T})^{T}" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://latex.codecogs.com/gif.latex?(A^{T})^{T}&space;=&space;\begin{pmatrix}&space;3&space;&&space;1\\&space;2&space;&&space;6&space;\end{pmatrix}" title="(A^{T})^{T} = \begin{pmatrix} 3 & 1\\ 2 & 6 \end{pmatrix}" />
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python with Numpy:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/1f.png" width="700"/>
+
+
+**(g)** Find <img src="https://latex.codecogs.com/gif.latex?\inline&space;AA^{T}" title="AA^{T}" />
+
+
+
+title="A = \begin{pmatrix} 3 & 1\\ 2 & 6 \end{pmatrix} B = \begin{pmatrix} -1 & 4\\ 3 & 8 \end{pmatrix}" />
