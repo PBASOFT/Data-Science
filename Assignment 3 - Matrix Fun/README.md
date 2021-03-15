@@ -1,10 +1,10 @@
-Matrix Fun
+# Matrix Fun
 
 ```diff
 - work in progress
 ```
 
-# Task 1
+## Task 1
 Given the two following matrices: 
 
 <img src="https://latex.codecogs.com/gif.latex?A&space;=&space;\begin{pmatrix}&space;3&space;&&space;1\\&space;2&space;&&space;6&space;\end{pmatrix}&space;B&space;=&space;\begin{pmatrix}&space;-1&space;&&space;4\\&space;3&space;&&space;8&space;\end{pmatrix}" title="A = \begin{pmatrix} 3 & 1\\ 2 & 6 \end{pmatrix} B = \begin{pmatrix} -1 & 4\\ 3 & 8 \end{pmatrix}" />
@@ -99,7 +99,7 @@ Python with Numpy:
 
 
 
-# Task 2
+## Task 2
 
 Given 
 
@@ -127,7 +127,7 @@ Python with Numpy:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/2b.png" width="600"/>
 
 
-# Task 3
+## Task 3
 
 The inverse of a matrix  <img src="https://latex.codecogs.com/gif.latex?\inline&space;A=\begin{pmatrix}&space;a&space;&&space;b\\&space;c&space;&&space;d&space;\end{pmatrix}" title="A=\begin{pmatrix} a & b\\ c & d \end{pmatrix}" /> is found by 
 
@@ -196,7 +196,7 @@ Python with Numpy:
 
 
 
-# Task 4
+## Task 4
 
 Given <img src="https://latex.codecogs.com/gif.latex?\inline&space;A&space;=&space;\begin{pmatrix}&space;2&space;&&space;4\\&space;1&space;&&space;2&space;\end{pmatrix}" title="A = \begin{pmatrix} 2 & 4\\ 1 & 2 \end{pmatrix}" />
 
@@ -215,10 +215,15 @@ Python with Numpy:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/4b.png" width="600"/>
 
 
-# Task 5
+## Task 5
 
-**(a)** Set the rotation matrix (line 18) to rotate the shape 45 degrees<img src="https://latex.codecogs.com/gif.latex?\inline&space;\frac{\pi}{4}" title="\frac{\pi}{4}" /> radians)
+**(a)** Set the rotation matrix to rotate the shape 45 degrees (<img src="https://latex.codecogs.com/gif.latex?\inline&space;\frac{\pi&space;}{4}" title="\frac{\pi }{4}" /> radians)
 
 Rotation matrix to to <img src="https://latex.codecogs.com/gif.latex?\inline&space;\frac{\pi}{4}" title="\frac{\pi}{4}" />: 
 
 <img src="https://latex.codecogs.com/gif.latex?\begin{pmatrix}&space;\cos\frac{\pi&space;}{4}&space;&&space;-sin\frac{\pi&space;}{4}&space;\\&space;sin\frac{\pi&space;}{4}&space;&&space;cos\frac{\pi&space;}{4}&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;cos(0,785))&space;&&space;-sin((0,785))\\&space;sin(0,785)&space;&&space;cos(0,785)&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;0,71&space;&&space;-0,71\\&space;0,71&space;&&space;0,71&space;\end{pmatrix}" title="\begin{pmatrix} \cos\frac{\pi }{4} & -sin\frac{\pi }{4} \\ sin\frac{\pi }{4} & cos\frac{\pi }{4} \end{pmatrix} = \begin{pmatrix} cos(0,785)) & -sin((0,785))\\ sin(0,785) & cos(0,785) \end{pmatrix} = \begin{pmatrix} 0,71 & -0,71\\ 0,71 & 0,71 \end{pmatrix}" />
+
+
+Python with Matplotlib:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/5a.png" width="800"/>
