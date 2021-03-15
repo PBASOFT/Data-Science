@@ -217,6 +217,6 @@ Python with Numpy:
 
 # Task 5
 
-**(a)** Set the rotation matrix (line 18) to rotate the shape 45 degrees $\frac{{{π}}{{{4}}$  radians)
+**(a)** Set the rotation matrix (line 18) to rotate the shape 45 degrees <img src="https://latex.codecogs.com/gif.latex?\inline&space;{\pi&space;}{4}" title="{\pi }{4}" /> radians)
 
-Rotation matrix to to pi/4: <img src="https://latex.codecogs.com/gif.latex?\begin{pmatrix}&space;\cos\frac{\pi&space;}{4}&space;&&space;-sin\frac{\pi&space;}{4}&space;\\&space;sin\frac{\pi&space;}{4}&space;&&space;cos\frac{\pi&space;}{4}&space;\end{pmatrix}" title="\begin{pmatrix} \cos\frac{\pi }{4} & -sin\frac{\pi }{4} \\ sin\frac{\pi }{4} & cos\frac{\pi }{4} \end{pmatrix}" />
+Rotation matrix to to <img src="https://latex.codecogs.com/gif.latex?\inline&space;{\pi&space;}{4}" title="{\pi }{4}" />: <img src="https://latex.codecogs.com/gif.latex?\begin{pmatrix}&space;\cos\frac{\pi&space;}{4}&space;&&space;-sin\frac{\pi&space;}{4}&space;\\&space;sin\frac{\pi&space;}{4}&space;&&space;cos\frac{\pi&space;}{4}&space;\end{pmatrix}" title="\begin{pmatrix} \cos\frac{\pi }{4} & -sin\frac{\pi }{4} \\ sin\frac{\pi }{4} & cos\frac{\pi }{4} \end{pmatrix}" />
