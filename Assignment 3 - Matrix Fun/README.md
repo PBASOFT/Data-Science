@@ -209,7 +209,7 @@ Division by 0 is impossible
 
 Python with Numpy:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/4b.png" width="600"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/4a.png" width="600"/>
 
 
 ## Task 5
