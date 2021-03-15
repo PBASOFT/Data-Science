@@ -1,8 +1,5 @@
 # Matrix Fun
 
-```diff
-- work in progress
-```
 
 ## Task 1
 Given the two following matrices: 
