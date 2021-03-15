@@ -219,4 +219,6 @@ Python with Numpy:
 
 **(a)** Set the rotation matrix (line 18) to rotate the shape 45 degrees<img src="https://latex.codecogs.com/gif.latex?\inline&space;\frac{\pi}{4}" title="\frac{\pi}{4}" /> radians)
 
-Rotation matrix to to <img src="https://latex.codecogs.com/gif.latex?\inline&space;\frac{\pi}{4}" title="\frac{\pi}{4}" />: <img src="https://latex.codecogs.com/gif.latex?\begin{pmatrix}&space;\cos\frac{\pi&space;}{4}&space;&&space;-sin\frac{\pi&space;}{4}&space;\\&space;sin\frac{\pi&space;}{4}&space;&&space;cos\frac{\pi&space;}{4}&space;\end{pmatrix}" title="\begin{pmatrix} \cos\frac{\pi }{4} & -sin\frac{\pi }{4} \\ sin\frac{\pi }{4} & cos\frac{\pi }{4} \end{pmatrix}" />
+Rotation matrix to to <img src="https://latex.codecogs.com/gif.latex?\inline&space;\frac{\pi}{4}" title="\frac{\pi}{4}" />: 
+
+<img src="https://latex.codecogs.com/gif.latex?\begin{pmatrix}&space;\cos\frac{\pi&space;}{4}&space;&&space;-sin\frac{\pi&space;}{4}&space;\\&space;sin\frac{\pi&space;}{4}&space;&&space;cos\frac{\pi&space;}{4}&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;cos(0,785))&space;&&space;-sin((0,785))\\&space;sin(0,785)&space;&&space;cos(0,785)&space;\end{pmatrix}&space;=&space;\begin{pmatrix}&space;0,71&space;&&space;-0,71\\&space;0,71&space;&&space;0,71&space;\end{pmatrix}" title="\begin{pmatrix} \cos\frac{\pi }{4} & -sin\frac{\pi }{4} \\ sin\frac{\pi }{4} & cos\frac{\pi }{4} \end{pmatrix} = \begin{pmatrix} cos(0,785)) & -sin((0,785))\\ sin(0,785) & cos(0,785) \end{pmatrix} = \begin{pmatrix} 0,71 & -0,71\\ 0,71 & 0,71 \end{pmatrix}" />
