@@ -179,7 +179,7 @@ Python with Numpy:
 
 Python with Numpy:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3e.png" width="500"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3e.png" width="400"/>
 
 
 
@@ -189,7 +189,7 @@ Python with Numpy:
 
 Python with Numpy:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3f.png" width="500"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/3f.png" width="400"/>
 
 
 
