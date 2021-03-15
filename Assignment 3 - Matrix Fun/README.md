@@ -223,4 +223,5 @@ Rotation matrix to to <img src="https://latex.codecogs.com/gif.latex?\inline&spa
 
 Python with Matplotlib:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/5a.png" width="800"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/5a_1.png" width="800"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/5a_2.png" width="800"/>
