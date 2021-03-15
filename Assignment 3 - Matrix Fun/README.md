@@ -217,4 +217,4 @@ Python with Numpy:
 
 # Task 5
 
-**(a)** Set the rotation matrix (line 18) to rotate the shape 45 degrees ( $^π/_4$ radians).
+**(a)** Set the rotation matrix (line 18) to rotate the shape 45 degrees $\frac{{{π}}{{{4}}$  radians)
