@@ -4,7 +4,7 @@ Matrix Fun
 - work in progress
 ```
 
-## Task 1
+# Task 1
 Given the two following matrices: 
 
 <img src="https://latex.codecogs.com/gif.latex?A&space;=&space;\begin{pmatrix}&space;3&space;&&space;1\\&space;2&space;&&space;6&space;\end{pmatrix}&space;B&space;=&space;\begin{pmatrix}&space;-1&space;&&space;4\\&space;3&space;&&space;8&space;\end{pmatrix}" title="A = \begin{pmatrix} 3 & 1\\ 2 & 6 \end{pmatrix} B = \begin{pmatrix} -1 & 4\\ 3 & 8 \end{pmatrix}" />
@@ -215,3 +215,6 @@ Python with Numpy:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/4b.png" width="600"/>
 
 
+# Task 5
+
+**(a)** Set the rotation matrix (line 18) to rotate the shape 45 degrees ( $^π/_4$ radians).
