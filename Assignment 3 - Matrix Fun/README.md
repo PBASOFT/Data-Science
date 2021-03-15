@@ -204,7 +204,7 @@ Given <img src="https://latex.codecogs.com/gif.latex?\inline&space;A&space;=&spa
 <img src="https://latex.codecogs.com/gif.latex?A^{-1}&space;=&space;\frac{1}{2\cdot&space;2-4\cdot&space;1}\begin{pmatrix}&space;2&space;&-4&space;\\&space;-1&space;&&space;2&space;\end{pmatrix}&space;=&space;\frac{1}{0}\begin{pmatrix}&space;2&space;&-4&space;\\&space;-1&space;&&space;2&space;\end{pmatrix}" title="A^{-1} = \frac{1}{2\cdot 2-4\cdot 1}\begin{pmatrix} 2 &-4 \\ -1 & 2 \end{pmatrix} = \frac{1}{0}\begin{pmatrix} 2 &-4 \\ -1 & 2 \end{pmatrix}" />
 
 ```diff
-Division by 0 is impossible
+ - Division by 0 is impossible
 ```
 
 Python with Numpy:
