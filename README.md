@@ -8,4 +8,4 @@
 
  ### Mini Projects
  - [Mini Project: Text Similarity](/Mini%20Project-Text%20Similarity)
- - [Mini Project: Image Processing](https://github.com/PBASOFT/Data-Science/tree/main/Mini%20Project%20-%20Image%20Processing)
+ - [Mini Project: Image Processing](/Mini%20Project%20-%20Matrix%20in%20Image%20Processing)
