@@ -12,8 +12,9 @@
   >
   >  When you calculate a t-test, you are looking to see if it is greater or less than the critical value. Because this indicates the probability that the data is just random and that there is no significance. We want as much confidence  as posible; we want a very small p-value, to tell cus that its not random but significantly different.
 		
-**Before doing a T-test:** One-tailed or two-tailed t-test?
+**Before doing a T-test:**\
+		1. Are you conducting a one-tailed or two-tailed t-test?
 
-> 	**One-tailed test** will test either if the mean is significantly greater than OR significantly less than x. 
+> 	**One-tailed test** will test either if the mean is significantly greater than OR significantly less than x.\
 > 	**Two-tailed test** will test both if the mean is significantly greater than x AND if it's significantly less than x. 
 > 	![ALT TEXT](http://www.fao.org/3/X6831E/X6831E120.gif)
