@@ -8,7 +8,7 @@
  
  **The critical value:** The T-test gives us a value - a propability - the p-value:
 	
-  > If the critical value ie is 0,05, we check the p-value against it:  *(In science we wan't 
+  > If the critical value ie is 0,05, we check the p-value against it:  *(In science we wan't 95% confidence that it is significant)* 
   > 
   > p < 0,05 => indicates that there is less than five percent change that the data is random (aka 95 % chance that the data is significant).
   >
