@@ -2,7 +2,7 @@
 
 https://datsoftlyngby.github.io/soft2021spring/resources/f58d8a22-A6-Testing-Hypothesis.pdf
 
-## Tasks
+## Task
 
 **Test the following null hypothesis:** Covid infection spreads randomly and similarly in big
 Danish cities such as Copenhagen and Aarhus.
