@@ -2,7 +2,7 @@
 
 ## T-test
 
-*Compare two sets of data*
+*=Compare two sets of data*
 	
  **Purpose:** Is there a significant difference between two sets of data?  
  
