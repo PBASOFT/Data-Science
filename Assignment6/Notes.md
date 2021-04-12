@@ -1,3 +1,7 @@
+## Standard Deviation
+
+Standard deviation is a number that tells you how far numbers are from their mean.
+
 
 
 ## T-test
