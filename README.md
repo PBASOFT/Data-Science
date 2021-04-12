@@ -2,7 +2,7 @@
 
 
 ### Assignments
- - [Assignment 1 - Tic-tac-toe using Minimax](/Assignment%201%20-%20Minimax)
+ - [Assignment 1 - Assignment 1 - Intelligent Agent](/Assignment1)
  - [Assignment 2 - Vector Fun](/Assignment%202%20-%20Vector%20Fun)
  - [Assignment 3 - Matrix Fun](/Assignment%203%20-%20Matrix%20Fun)
 
