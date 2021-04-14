@@ -2,7 +2,7 @@
 ## Simple Vs. Multiple Vs. Polynomial Regression
 
 
-linear regressione =  find the best way to draw a line through the data points.
+Linear Regressions =  Find the best way to draw a line through the data points.
 
 ### Simpel Linear Regression:
   - y = ax+b
