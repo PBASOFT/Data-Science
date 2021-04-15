@@ -36,5 +36,5 @@ Linear Regressions =  Find the best way to draw a line through the data points.
 ### Polynomial Linear Regression 
 - is suited for projects where you want to learn about the dependency between variabels, when the data doesn't follow a linear progression.
 
-**Note:** Polynomial generelly fits the data better, but has a the downside that it's heavily affected by outliers.
+- **Note:** Polynomial generelly fits the data better, but has a the downside that it's heavily affected by outliers.
 
