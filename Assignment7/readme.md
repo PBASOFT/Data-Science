@@ -27,11 +27,14 @@ Linear Regressions =  Find the best way to draw a line through the data points.
 
 ## In which type of projects each of them fits best?
 
-Simpel Linear Regression is suited for projects where you want to learn about the dependency between two variables, i.e. salary and education level, if the data follows a linear progression.
+### Simpel Linear Regression 
+- is suited for projects where you want to learn about the dependency between two variables, i.e. salary and education level, if the data follows a linear progression.
 
-Multiple Linear Regression is suited for projects where you want to learn multiple variabels dependency on a single variable, i.e. salery, education level and age.
+### Multiple Linear Regression 
+- is suited for projects where you want to learn multiple variabels dependency on a single variable, i.e. salery, education level and age.
 
-Polynomial Linear Regression is suited for projects where you want to learn about the dependency between variabels, when the data doesn't follow a linear progression.
+### Polynomial Linear Regression 
+- is suited for projects where you want to learn about the dependency between variabels, when the data doesn't follow a linear progression.
 
 **Note:** Polynomial generelly fits the data better, but has a the downside that it's heavily affected by outliers.
 
