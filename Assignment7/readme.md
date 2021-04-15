@@ -12,7 +12,8 @@ Linear Regressions =  Find the best way to draw a line through the data points.
 
 ### Multiple Linear Regression:   
 - <img src="https://latex.codecogs.com/gif.latex?y&space;=&space;\beta&space;^{}_{0}&plus;\beta&space;m_{1}&space;\cdot&space;X_{1}&plus;\beta&space;_{2}&space;\cdot&space;X_{2}&space;...&space;\beta&space;_{n}&space;\cdot&space;X_{n}" title="y = \beta ^{}_{0}+\beta m_{1} \cdot X_{1}+\beta _{2} \cdot X_{2} ... \beta _{n} \cdot X_{n}" />
-    - “Multiple regression” simply means that there are more X variables (independent variables) used in the prediction of Y
+    
+ - “Multiple regression” simply means that there are more X variables (independent variables) used in the prediction of Y
 
 
 ### Polynomial Linear Regression:
