@@ -1,10 +1,10 @@
 # Assignment 7 - Linear Regression
 
 ## Programming task
-**Build a code to train a linear regression model that can predict the exam grade of a student based
-on the time used for preparation.**
+Build a code to train a linear regression model that can predict the exam grade of a student based
+on the time used for preparation.
 
-[Solution:](/linear-regression-student.ipynb)
+[Link to notebook](/linear-regression-student.ipynb)
 
 ## Simple Vs. Multiple Vs. Polynomial Regression
 
