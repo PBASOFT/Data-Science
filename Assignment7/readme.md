@@ -1,6 +1,11 @@
 # Assignment 7 - Linear Regression
 ## Simple Vs. Multiple Vs. Polynomial Regression
 
+ 
+**Build a code to train a linear regression model that can predict the exam grade of a student based
+on the time used for preparation.**
+
+Solution: 
 
 Linear Regressions =  Find the best way to draw a line through the data points.
 
