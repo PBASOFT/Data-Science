@@ -4,7 +4,7 @@
 Build a code to train a linear regression model that can predict the exam grade of a student based
 on the time used for preparation.
 
-[Link to notebook](/linear-regression-student.ipynb)
+[Link to notebook](https://github.com/PBASOFT/Data-Science/blob/main/Assignment7/linear-regression-student.ipynb)
 
 ## Simple Vs. Multiple Vs. Polynomial Regression
 
