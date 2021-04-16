@@ -2,7 +2,7 @@
 
 ## Task 1: – Bayes’ theorem
 
-<img src="https://latex.codecogs.com/gif.latex?\inline&space;P(A|B)=\frac{P(B|A)P(A)}{P(B)}" title="P(A|B)=\frac{P(B|A)P(A)}{P(B)}" />
+Formula: <img src="https://latex.codecogs.com/gif.latex?\inline&space;P(A|B)=\frac{P(B|A)P(A)}{P(B)}" title="P(A|B)=\frac{P(B|A)P(A)}{P(B)}" />
 
 
 1.  **60% of the kids play football, and 36% of the kids play ice hockey. 40% of the kids who play football also play ice hockey. What percent of those that play ice hockey also play football?**
