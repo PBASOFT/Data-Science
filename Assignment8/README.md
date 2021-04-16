@@ -30,9 +30,9 @@ What we want to achieve:
 
 <img src="https://latex.codecogs.com/gif.latex?P(X|defect)&space;=&space;\frac{P(defect|X\cdot&space;P(X))}{P(defect)}" title="P(X|defect) = \frac{P(defect|X\cdot P(X))}{P(defect)}" />
 
-We know that P(defect|X) = 0,02 and P(X) = 0,6
+We know that <img src="https://latex.codecogs.com/gif.latex?\inline&space;P(defect|X)&space;=&space;0,02" title="P(defect|X) = 0,02" /> and that <img src="https://latex.codecogs.com/gif.latex?\inline&space;P(X)&space;=&space;0,6" title="P(X) = 0,6" />
 
-We then have to find P(defect):
+But we need to find P(defect):
 
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;P(defect)&space;=&space;0,6\cdot&space;0,02&space;&plus;&space;0,4&space;\cdot&space;0,015&space;=&space;0,018" title="P(defect) = 0,6\cdot 0,02 + 0,4 \cdot 0,015 = 0,018" />
 
