@@ -12,3 +12,6 @@ Danish cities such as Copenhagen and Aarhus.
 
 
 **Solution i excel:** https://github.com/PBASOFT/Data-Science/blob/main/Mini%20Project:%20Testing%20Hypothesis/Data/municipality_cases_2021.xlsx
+
+
+**Solution in Jupyter Notebook:** https://github.com/PBASOFT/Data-Science/blob/main/Assignment6/ass6.ipynb
