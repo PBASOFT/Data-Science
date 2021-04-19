@@ -41,3 +41,26 @@ We can now do the theorem:
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;\frac{0,02\cdot&space;0,6}{0,018}&space;=&space;0,66" title="\frac{0,02\cdot 0,6}{0,018} = 0,66" />
 
 And state that there is a 66% probability that a defect was produced by machine X
+
+
+
+## Task 2
+
+[See jupyter notebook](classification.ipynb)
+
+
+## Task 3
+
+[Knime solution](workflow.svg)
+
+
+## Task 4
+
+We chose a dataset of red whine; trying to predict the quality.
+Dataset is in the Data folder.
+[See solution jupyter notebook](classification.ipynb)
+
+## Task 5
+
+We implemented the Gaussian Naïve Bayes classifier on the red whine dataset in the notebooke above, and also on the iris dataset in another notebook. In both cases the KNeighborsClassifier was most accurate of the two.
+We would based on that, choose the **KNeighborsClassifier**.
