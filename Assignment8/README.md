@@ -63,4 +63,5 @@ Dataset is in the Data folder.
 ## Task 5
 
 We implemented the Gaussian Naïve Bayes classifier on the red whine dataset in the notebooke above, and also on the iris dataset in another notebook. In both cases the KNeighborsClassifier was most accurate of the two.
+
 We would based on that, choose the **KNeighborsClassifier**.
