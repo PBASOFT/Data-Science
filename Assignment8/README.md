@@ -1,5 +1,7 @@
 # Assignment 8 - Classification
 
+Assignment: https://datsoftlyngby.github.io/soft2021spring/resources/dc52140e-Assignment_classification.pdf
+ 
 ## Task 1: – Bayes’ theorem
 
    <img src="https://latex.codecogs.com/gif.latex?\inline&space;P(A|B)=\frac{P(B|A)P(A)}{P(B)}" title="P(A|B)=\frac{P(B|A)P(A)}{P(B)}" />
