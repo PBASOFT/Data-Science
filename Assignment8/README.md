@@ -59,7 +59,9 @@ And state that there is a 66% probability that a defect was produced by machine 
 ## Task 4
 
 We chose a dataset of red whine; trying to predict the quality.
+
 Dataset is in the Data folder.
+
 [See solution jupyter notebook](classification.ipynb)
 
 ## Task 5
